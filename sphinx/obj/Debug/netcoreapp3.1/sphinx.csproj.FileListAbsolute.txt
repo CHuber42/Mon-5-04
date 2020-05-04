@@ -1,0 +1,13 @@
+/home/psiance/Desktop/Epicodus/Week-5-04/Monday/sphinx/bin/Debug/netcoreapp3.1/sphinx
+/home/psiance/Desktop/Epicodus/Week-5-04/Monday/sphinx/bin/Debug/netcoreapp3.1/sphinx.deps.json
+/home/psiance/Desktop/Epicodus/Week-5-04/Monday/sphinx/bin/Debug/netcoreapp3.1/sphinx.runtimeconfig.json
+/home/psiance/Desktop/Epicodus/Week-5-04/Monday/sphinx/bin/Debug/netcoreapp3.1/sphinx.runtimeconfig.dev.json
+/home/psiance/Desktop/Epicodus/Week-5-04/Monday/sphinx/bin/Debug/netcoreapp3.1/sphinx.dll
+/home/psiance/Desktop/Epicodus/Week-5-04/Monday/sphinx/bin/Debug/netcoreapp3.1/sphinx.pdb
+/home/psiance/Desktop/Epicodus/Week-5-04/Monday/sphinx/obj/Debug/netcoreapp3.1/sphinx.csprojAssemblyReference.cache
+/home/psiance/Desktop/Epicodus/Week-5-04/Monday/sphinx/obj/Debug/netcoreapp3.1/sphinx.csproj.CoreCompileInputs.cache
+/home/psiance/Desktop/Epicodus/Week-5-04/Monday/sphinx/obj/Debug/netcoreapp3.1/sphinx.AssemblyInfoInputs.cache
+/home/psiance/Desktop/Epicodus/Week-5-04/Monday/sphinx/obj/Debug/netcoreapp3.1/sphinx.AssemblyInfo.cs
+/home/psiance/Desktop/Epicodus/Week-5-04/Monday/sphinx/obj/Debug/netcoreapp3.1/sphinx.dll
+/home/psiance/Desktop/Epicodus/Week-5-04/Monday/sphinx/obj/Debug/netcoreapp3.1/sphinx.pdb
+/home/psiance/Desktop/Epicodus/Week-5-04/Monday/sphinx/obj/Debug/netcoreapp3.1/sphinx.genruntimeconfig.cache
