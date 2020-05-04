@@ -1,0 +1,13 @@
+/home/psiance/Desktop/Epicodus/Week-5-04/Monday/PingPong/bin/Debug/netcoreapp3.1/pingpong
+/home/psiance/Desktop/Epicodus/Week-5-04/Monday/PingPong/bin/Debug/netcoreapp3.1/pingpong.deps.json
+/home/psiance/Desktop/Epicodus/Week-5-04/Monday/PingPong/bin/Debug/netcoreapp3.1/pingpong.runtimeconfig.json
+/home/psiance/Desktop/Epicodus/Week-5-04/Monday/PingPong/bin/Debug/netcoreapp3.1/pingpong.runtimeconfig.dev.json
+/home/psiance/Desktop/Epicodus/Week-5-04/Monday/PingPong/bin/Debug/netcoreapp3.1/pingpong.dll
+/home/psiance/Desktop/Epicodus/Week-5-04/Monday/PingPong/bin/Debug/netcoreapp3.1/pingpong.pdb
+/home/psiance/Desktop/Epicodus/Week-5-04/Monday/PingPong/obj/Debug/netcoreapp3.1/pingpong.csprojAssemblyReference.cache
+/home/psiance/Desktop/Epicodus/Week-5-04/Monday/PingPong/obj/Debug/netcoreapp3.1/pingpong.csproj.CoreCompileInputs.cache
+/home/psiance/Desktop/Epicodus/Week-5-04/Monday/PingPong/obj/Debug/netcoreapp3.1/pingpong.AssemblyInfoInputs.cache
+/home/psiance/Desktop/Epicodus/Week-5-04/Monday/PingPong/obj/Debug/netcoreapp3.1/pingpong.AssemblyInfo.cs
+/home/psiance/Desktop/Epicodus/Week-5-04/Monday/PingPong/obj/Debug/netcoreapp3.1/pingpong.dll
+/home/psiance/Desktop/Epicodus/Week-5-04/Monday/PingPong/obj/Debug/netcoreapp3.1/pingpong.pdb
+/home/psiance/Desktop/Epicodus/Week-5-04/Monday/PingPong/obj/Debug/netcoreapp3.1/pingpong.genruntimeconfig.cache
