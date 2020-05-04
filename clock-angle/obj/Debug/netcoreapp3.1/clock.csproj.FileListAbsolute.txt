@@ -1,0 +1,13 @@
+/home/psiance/Desktop/Epicodus/Week-5-04/Monday/clock-angle/bin/Debug/netcoreapp3.1/clock
+/home/psiance/Desktop/Epicodus/Week-5-04/Monday/clock-angle/bin/Debug/netcoreapp3.1/clock.deps.json
+/home/psiance/Desktop/Epicodus/Week-5-04/Monday/clock-angle/bin/Debug/netcoreapp3.1/clock.runtimeconfig.json
+/home/psiance/Desktop/Epicodus/Week-5-04/Monday/clock-angle/bin/Debug/netcoreapp3.1/clock.runtimeconfig.dev.json
+/home/psiance/Desktop/Epicodus/Week-5-04/Monday/clock-angle/bin/Debug/netcoreapp3.1/clock.dll
+/home/psiance/Desktop/Epicodus/Week-5-04/Monday/clock-angle/bin/Debug/netcoreapp3.1/clock.pdb
+/home/psiance/Desktop/Epicodus/Week-5-04/Monday/clock-angle/obj/Debug/netcoreapp3.1/clock.csprojAssemblyReference.cache
+/home/psiance/Desktop/Epicodus/Week-5-04/Monday/clock-angle/obj/Debug/netcoreapp3.1/clock.csproj.CoreCompileInputs.cache
+/home/psiance/Desktop/Epicodus/Week-5-04/Monday/clock-angle/obj/Debug/netcoreapp3.1/clock.AssemblyInfoInputs.cache
+/home/psiance/Desktop/Epicodus/Week-5-04/Monday/clock-angle/obj/Debug/netcoreapp3.1/clock.AssemblyInfo.cs
+/home/psiance/Desktop/Epicodus/Week-5-04/Monday/clock-angle/obj/Debug/netcoreapp3.1/clock.dll
+/home/psiance/Desktop/Epicodus/Week-5-04/Monday/clock-angle/obj/Debug/netcoreapp3.1/clock.pdb
+/home/psiance/Desktop/Epicodus/Week-5-04/Monday/clock-angle/obj/Debug/netcoreapp3.1/clock.genruntimeconfig.cache
