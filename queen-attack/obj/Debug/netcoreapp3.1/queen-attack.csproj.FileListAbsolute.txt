@@ -1,0 +1,13 @@
+/home/psiance/Desktop/Epicodus/Week-5-04/Monday/queen-attack/obj/Debug/netcoreapp3.1/queen-attack.csprojAssemblyReference.cache
+/home/psiance/Desktop/Epicodus/Week-5-04/Monday/queen-attack/obj/Debug/netcoreapp3.1/queen-attack.csproj.CoreCompileInputs.cache
+/home/psiance/Desktop/Epicodus/Week-5-04/Monday/queen-attack/obj/Debug/netcoreapp3.1/queen-attack.AssemblyInfoInputs.cache
+/home/psiance/Desktop/Epicodus/Week-5-04/Monday/queen-attack/obj/Debug/netcoreapp3.1/queen-attack.AssemblyInfo.cs
+/home/psiance/Desktop/Epicodus/Week-5-04/Monday/queen-attack/bin/Debug/netcoreapp3.1/queen-attack
+/home/psiance/Desktop/Epicodus/Week-5-04/Monday/queen-attack/bin/Debug/netcoreapp3.1/queen-attack.deps.json
+/home/psiance/Desktop/Epicodus/Week-5-04/Monday/queen-attack/bin/Debug/netcoreapp3.1/queen-attack.runtimeconfig.json
+/home/psiance/Desktop/Epicodus/Week-5-04/Monday/queen-attack/bin/Debug/netcoreapp3.1/queen-attack.runtimeconfig.dev.json
+/home/psiance/Desktop/Epicodus/Week-5-04/Monday/queen-attack/bin/Debug/netcoreapp3.1/queen-attack.dll
+/home/psiance/Desktop/Epicodus/Week-5-04/Monday/queen-attack/bin/Debug/netcoreapp3.1/queen-attack.pdb
+/home/psiance/Desktop/Epicodus/Week-5-04/Monday/queen-attack/obj/Debug/netcoreapp3.1/queen-attack.dll
+/home/psiance/Desktop/Epicodus/Week-5-04/Monday/queen-attack/obj/Debug/netcoreapp3.1/queen-attack.pdb
+/home/psiance/Desktop/Epicodus/Week-5-04/Monday/queen-attack/obj/Debug/netcoreapp3.1/queen-attack.genruntimeconfig.cache
